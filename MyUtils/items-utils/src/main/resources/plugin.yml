@@ -1,0 +1,6 @@
+name: items-utils
+version: '1.0.0'
+main: com.Centespeak.itemsUtils.ItemsUtils
+api-version: '1.20'
+authors: [ Cantespeak ]
+description: plugin
